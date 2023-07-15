@@ -6,3 +6,12 @@
     box-sizing: border-box;
     font-family: 'Sora', sans-serif;
 }
+
+:root{
+
+  --nav-background: #1b1b22;
+  --main-background: #1e353b;
+  --light-orange: #ffbd43;
+  --dark-orange: #fe8127;
+  --light-blue: #00efef;
+}
